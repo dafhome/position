@@ -75,10 +75,14 @@ main{
 .texto,.texto2{
     font-family:monospace;
     font-size: 2vw;
-    
 }
 .texto2{
     text-shadow: 0px 5px 5px rgb(0, 0, 0) ;
+}
+.titulo{
+    font-family:monospace;
+    padding: 20px;
+    font-weight: bold;
 }
 p{
     margin: 5%;
